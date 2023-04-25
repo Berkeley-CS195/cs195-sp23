@@ -4,7 +4,7 @@ date: 2023-04-25
 number: "14"
 title: "Guest Speaker: Khalid Kadir, Whose Cities? The Political Economy of Someone Else’s Smart Cities"
 slides:
-  link: "https://bcourses.berkeley.edu/files/85986479/download?download_frd=1"
+  link: "https://docs.google.com/presentation/d/1mdKHWD6jfAdharAFDdHycX9duQsGyPBGTJANe_2XEok/edit?usp=sharing"
   released: true
 readings_released: true
 ---
@@ -12,8 +12,6 @@ readings_released: true
 Guest speaker: Dr. Khalid Kadir, Lecturer in Global Poverty and Practice,
 Political Economy, Civil and Environmental Engineering at UC Berkeley.
 [profile](https://blumcenter.berkeley.edu/academics/gppminor/faculty/kadir/)
-
-Slides require SP23 bCourses access.
 
 **Fill out [this survey][l14_form] by Monday 04/24 at 11:59 PM.**
 
