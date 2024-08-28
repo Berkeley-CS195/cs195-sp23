@@ -2,6 +2,7 @@ title: CS 195
 description: "CS 195: Social Implications of Computer Technology"
 collections_dir: collections
 
+baseurl: '/' # the subpath of your site
 url: "https://cs195.org"
 edstem: https://edstem.org/us/courses/35154
 ed_zoom_link: https://edstem.org/us/courses/35154/discussion/2394817
