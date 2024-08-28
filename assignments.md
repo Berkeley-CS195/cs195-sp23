@@ -16,15 +16,15 @@ You will write two short essays (700-1000 words) of varying format in relation
 to issues discussed in class. Essays are peer reviewed, which means you will
 review six essays and have each of your essays reviewed by three of your peers.
 
-[essay1]: assignments/essay1.md
-[essay2]: assignments/essay2.md
+[essay1]: {{site.baseurl}}assignments/essay1.md
+[essay2]: {{site.baseurl}}assignments/essay2.md
 
 ## Computing in the News
 
 You will write a short essay comparing two perspectives on the same concept or
 topic.
 
-[computing-news]: assignments/computing-in-the-news.md
+[computing-news]: {{site.baseurl}}assignments/computing-in-the-news.md
 
 <!--
 Optional Essay: Ethics in the News

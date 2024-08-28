@@ -38,9 +38,9 @@ Jump on this page:
 | 2     | Teaching Computing in Society | ~3 weeks | Fri. 3/24 | [link][proj2]      |
 | 3     | Technology and the Community   | ~4 weeks | Fri. 4/28 | [link][proj3]      |
 
-[proj1]: assignments/h195-proj1
-[proj2]: assignments/h195-proj2
-[proj3]: assignments/h195-proj3
+[proj1]: {{site.baseurl}}assignments/h195-proj1
+[proj2]: {{site.baseurl}}assignments/h195-proj2
+[proj3]: {{site.baseurl}}assignments/h195-proj3
 
 ***
 
